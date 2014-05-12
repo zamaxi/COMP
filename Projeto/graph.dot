@@ -1,0 +1,4 @@
+ digraph name {
+     a -> b -> c;
+     b -> d;
+ }
